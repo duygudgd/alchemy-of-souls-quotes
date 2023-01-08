@@ -55,7 +55,6 @@ body {
 
 div, p {
   color: #fff;
-  text-shadow: -1px 1px 8px #ffc, 1px -1px 8px #fff;
   text-decoration: none;
   outline: 0 none;
 }
