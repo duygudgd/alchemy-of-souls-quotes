@@ -121,8 +121,7 @@ div, p {
   box-shadow: 0 0 30px #fff;
 }
 .wrap-mid #new-quote { 
-  margin-top: 10%;
-  text-align: center;
+  padding-top: 10%;
 }
 
 .wrap-btm {
