@@ -120,7 +120,7 @@ div, p {
   box-shadow: 0 0 30px #fff;
 }
 .wrap-mid #new-quote { 
-  float: right;
+  font-weight: bold;
 }
 
 .wrap-btm {
