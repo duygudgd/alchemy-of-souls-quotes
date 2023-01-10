@@ -59,6 +59,7 @@ div, p {
 }
 
 .wrap-top {
+  position: relative;
   margin-top: 20%;
   padding-bottom: 100px;
   height: 150px;
