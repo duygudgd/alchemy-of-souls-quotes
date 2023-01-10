@@ -104,7 +104,7 @@ div, p {
 
 
 .wrap-mid {
-  position: absolute;
+  position: fixed;
   padding: 55px 0 100px 0;
 }
 .tweet {
